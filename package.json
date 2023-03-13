@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-config-value-repeat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if the value of the js configuration file is duplicated",
   "keywords": [
     "eslint",
